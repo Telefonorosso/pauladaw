@@ -1,4 +1,4 @@
-# Paula USB Audio for Emu68 / PiStorm
+# Paula USB Audio for Emu68 / PiStorm - AI CODED
 
 **Real-time Paula audio capture exposed directly to a modern host as a driverless USB Audio Class 1 device.**
 
