@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="audiomulch.PNG" alt="Amiga 600 as the input of the DAW" width="800">
+</p>
+
 # Paula USB Audio for Emu68 / PiStorm - AI CODED
 
 **Real-time Paula audio capture exposed directly to a modern host as a driverless USB Audio Class 1 device.**
